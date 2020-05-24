@@ -138,23 +138,3 @@ SELECT * FROM branch_supplier ;
 SELECT * FROM client;
 SELECT * FROM works_with ;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
